@@ -1,4 +1,4 @@
-# Hi, I'm Anthony Benacquisto <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="vertical-align: middle;" />
+# <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="30" style="vertical-align: middle;" /> Hi, I'm Anthony Benacquisto
 
 Just a software engineer focused on AI agents, memory systems, and local-first software. I enjoy problem-solving, building things, and experimenting with new technologies.
 
