@@ -1,6 +1,6 @@
-# Hi, I'm Anthony Benacquisto
+# Hi, I'm Anthony Benacquisto 👋
 
-Developer focused on AI agents, memory systems, and local-first software. I enjoy problem-solving, building things, and experimenting with new technologies.
+Just a software engineer focused on AI agents, memory systems, and local-first software. I enjoy problem-solving, building things, and experimenting with new technologies.
 
 Here’s what I’m currently building:
 - **[AgentBigBrain](https://github.com/AgentBigBrain/AgentBigBrain):** a local-first AI agent built around a Society of Mind-style cognitive architecture.
