@@ -2,18 +2,14 @@
 
 **Software engineer and computer science student building local-first AI systems.**
 
-I focus on AI agent architecture, memory systems, and modular cognition. I’m especially interested in how intelligent software can reason, retain context, coordinate specialized components, and remain under the user’s control.
+My work focuses on AI agents, memory systems, and modular architectures. I’m especially interested in building software that can remember context, make use of past interactions, and remain understandable and under the user’s control.
 
 ## What I'm Building
 
-- 🧠 **[AgentBigBrain](https://github.com/AgentBigBrain/AgentBigBrain):** A local-first AI agent built around a Society of Mind-inspired cognitive architecture. It explores how specialized cognitive components can work together to create a more capable, persistent, and understandable agent system.
+- 🧠 **[AgentBigBrain](https://github.com/AgentBigBrain/AgentBigBrain):** A local-first AI agent inspired by the Society of Mind. The project explores how smaller, focused modules can work together to support memory, reasoning, and more consistent behavior over time.
 
 ## Current Interests
 
-- Agent architecture and orchestration
-- Long-term and contextual memory
-- Local-first application design
-- Web application architecture
-- AI systems
+`AI Agents` · `Memory Systems` · `Local-First Software` · `Agent Architecture` · `Web Applications`
 
 ![](./profile-3d-contrib/profile-night-view.svg)
