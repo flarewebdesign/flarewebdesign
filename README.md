@@ -2,7 +2,7 @@
 
 **Software engineer and computer science student building local-first AI systems.**
 
-My work focuses on AI agents, memory systems, and modular cognitive architectures—particularly software that can reason, retain context, coordinate specialized components, and remain under the user’s control.
+My work focuses on AI agents, memory systems, and modular cognitive architectures - particularly software that can reason, retain context, coordinate specialized components, and remain under the user’s control.
 
 ## What I'm Building
 
